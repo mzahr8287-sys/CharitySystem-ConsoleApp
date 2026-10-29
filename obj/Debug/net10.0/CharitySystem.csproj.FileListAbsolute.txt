@@ -1,0 +1,44 @@
+C:\Users\aaala\Downloads\CharitySystem\bin\Debug\net10.0\CharitySystem.exe
+C:\Users\aaala\Downloads\CharitySystem\bin\Debug\net10.0\CharitySystem.deps.json
+C:\Users\aaala\Downloads\CharitySystem\bin\Debug\net10.0\CharitySystem.runtimeconfig.json
+C:\Users\aaala\Downloads\CharitySystem\bin\Debug\net10.0\CharitySystem.dll
+C:\Users\aaala\Downloads\CharitySystem\bin\Debug\net10.0\CharitySystem.pdb
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.AssemblyInfoInputs.cache
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.AssemblyInfo.cs
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.csproj.CoreCompileInputs.cache
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.dll
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\refint\CharitySystem.dll
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.pdb
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharitySystem.genruntimeconfig.cache
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\ref\CharitySystem.dll
+C:\Users\aaala\Downloads\CharitySystem\obj\Debug\net10.0\CharityS.4E7B470E.Up2Date
+D:\مشروع صغير\CharitySystem\bin\Debug\net10.0\CharitySystem.exe
+D:\مشروع صغير\CharitySystem\bin\Debug\net10.0\CharitySystem.deps.json
+D:\مشروع صغير\CharitySystem\bin\Debug\net10.0\CharitySystem.runtimeconfig.json
+D:\مشروع صغير\CharitySystem\bin\Debug\net10.0\CharitySystem.dll
+D:\مشروع صغير\CharitySystem\bin\Debug\net10.0\CharitySystem.pdb
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.AssemblyInfoInputs.cache
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.AssemblyInfo.cs
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.csproj.CoreCompileInputs.cache
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.dll
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\refint\CharitySystem.dll
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.pdb
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\CharitySystem.genruntimeconfig.cache
+D:\مشروع صغير\CharitySystem\obj\Debug\net10.0\ref\CharitySystem.dll
+D:\min project\CharitySystem\bin\Debug\net10.0\CharitySystem.exe
+D:\min project\CharitySystem\bin\Debug\net10.0\CharitySystem.deps.json
+D:\min project\CharitySystem\bin\Debug\net10.0\CharitySystem.runtimeconfig.json
+D:\min project\CharitySystem\bin\Debug\net10.0\CharitySystem.dll
+D:\min project\CharitySystem\bin\Debug\net10.0\CharitySystem.pdb
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.AssemblyInfoInputs.cache
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.AssemblyInfo.cs
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.csproj.CoreCompileInputs.cache
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.sourcelink.json
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.dll
+D:\min project\CharitySystem\obj\Debug\net10.0\refint\CharitySystem.dll
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.pdb
+D:\min project\CharitySystem\obj\Debug\net10.0\CharitySystem.genruntimeconfig.cache
+D:\min project\CharitySystem\obj\Debug\net10.0\ref\CharitySystem.dll
