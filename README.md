@@ -32,7 +32,7 @@
 ### خطوات التشغيل عبر Terminal
 1. قم بعمل استنساخ (Clone) للمستودع:
    ```bash
-  https://github.com/mzahr8287-sys/CharitySystem-ConsoleApp.git
+   https://github.com/mzahr8287-sys/CharitySystem-ConsoleApp.git
    ```
 2. انتقل إلى مجلد المشروع:
    ```bash
